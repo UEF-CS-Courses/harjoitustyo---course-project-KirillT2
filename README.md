@@ -1,6 +1,6 @@
-# AND22-Course-Project
+# Android Ohjelmoinnin Perusteet - Harjoitustyö
 
-Kurssisuoritukseen kuuluu harjoitustyö, joka koostuu seuraavista osista:
+Kurssisuoritukseen kuuluuva harjoitustyö koostuu seuraavista osista:
 
 25p - Ohjelman vaatimukset 
 * Ohjelmassa käytetään numeerista, tekstimuotoista ja graafista tietoa
