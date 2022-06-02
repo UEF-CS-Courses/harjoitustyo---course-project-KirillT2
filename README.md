@@ -2,7 +2,7 @@
 
 ## Finnish 
 
-Kurssisuoritukseen kuuluuva harjoitustyö koostuu seuraavista osista:
+Kurssisuoritukseen kuuluva harjoitustyö koostuu seuraavista osista:
 
 25p - Ohjelman vaatimukset 
 * Ohjelmassa käytetään numeerista, tekstimuotoista ja graafista tietoa
