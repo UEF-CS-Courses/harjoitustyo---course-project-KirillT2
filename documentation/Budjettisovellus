@@ -1,0 +1,25 @@
+Budjettisovellus
+Tartkoituksena on toteuttaa budjetti sovellus, johon käyttäjä syöttää tulonsa ja menonsa. 
+
+Tulojen osalta käyttäjä syöttää sovellukseen kaikki tulonsa esim. palkat.
+
+Menojen osalta käyttäjä syöttää siihen esim. Ostoksia, lippuja, laskuja, (velkoja?), jne.
+Käyttäjä voi myös luoda laskujen osalta kuukausittaisia menoja, jotta hänen ei tarvitse niitä aina erikseen syöttää. Menoja voi myös kategorisoida esim. Ruoka, matkailu, vuokra, viihde, jne.
+
+Näiden perusteella sovellus näyttää käyttäjälle kustomoitavia graafeja hänen tuloistaan ja menoistaan.
+Esimerkiksi paljon kuukaudessa on mennyt rahaa kategorioittain, miten paljon rahaa on käytettävissä, pidemmän aikavälin menot tai päivittäiset. Tämän dashboardin olisi tarkoitus olla interaktiivinen ja käyttäjä voi klikata jotain osaa, jolloin hän saa siitä tarkempia tietoja esim. Kuukauden ruoka menot.
+
+Lisäominaisuuksina voisi olla esim. Säästäjä.
+Käyttäjä voi luoda itselleen jonkin lyhemmän tai pidemmän aikavälin päämäärän ja sovellus näyttää paljonko rahaa on jo säästynyt kyseiseen päämäärään. 
+Sovellus voisi myös muistuttaa käyttäjää erääntyvistä laskuista.
+
+Käyttäjien hallinta:
+Sovellukseen voi kirjautua ja käyttäjä näin päsee käsiksi omaan budjetointiinsa ja samaa laitetta voisi käyttää esim. Useampi käyttäjä. Tämän suunnittelin toteuttaa firebasen kautta, koska samalla työkalulla tietoja voi tallentaa myös pilveen, jolloin ne voisi siirtää myös uudelle laitteelle.
+
+Sovellukseen voi aika helposti lisätä lisää ominaisuuksia:
+Erilaiset valuutat.
+Sovellus voi myös ehdottaa käyttäjälle miten hän voisi säästää, missä kuluissa hän voisi leikata mutta tämä ominaisuus menee aika haastavaksi jos sen haluaa saada toimimaan älykkäästi (TensorFlow?).
+
+Ohjelmaa tehdessä olisi tarkoitus päästä opettelemaan androidin verkkopuolta ja perehtyä vähän syvemmin tietoturvaelementteihin firebasen kautta. Lisäksi olisi tarkoituksena opetella vähän syvällisemmin androidin modulaarisempia käyttöliittymäkomponentteja ja tietovirtaa JSON:in kautta.
+
+Aikataulun osalta haaveena olisi saada projekti valmiiksi kuukauden sisällä. Tarkoituksena olisi käyttää noin pari tuntia päivässä arkisin.
